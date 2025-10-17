@@ -71,7 +71,7 @@ export default function Page() {
           
             <div className="bg-muted/50 aspect-video rounded-xl" />
             <div className="bg-muted/50 aspect-video rounded-xl" />
-            
+            <div className="bg-muted/50 aspect-video rounded-xl" />
 
             <div className="bg-muted/50 aspect-video rounded-xl flex justify-center items-center p-4">
               <Dropzone
